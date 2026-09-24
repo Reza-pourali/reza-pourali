@@ -23,4 +23,4 @@ Python • 3D Geometry • Point Clouds • Photogrammetry • Remote Sensing
 
 ## Contact
 
-LinkedIn: [add your LinkedIn link]
+LinkedIn: [www.linkedin.com/in/rezapouralisurveyor]
